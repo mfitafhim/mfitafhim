@@ -1,6 +1,6 @@
-- 👋 Assalamu Alaikum! I’m @mfitafhim
-- 👀 I'm Fasihul Islam Tafhim. I study Islamic Studies at the University of Dhaka.
-- I am a web developer with 2+ years of experience in the industry.
+- 👋 Assalamu Alaikum! I'm Fasihul Islam Tafhim.
+- 👀 I study Islamic Studies at the University of Dhaka.
+- 👀 I am a web developer with 2+ years of experience in the industry.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 [How to reach me ...](https://www.mfitafhim.com/)
